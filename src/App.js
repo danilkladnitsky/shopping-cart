@@ -1,4 +1,4 @@
-// feature 1
+// feature 2
 import { Component } from "react";
 import Filter from "./components/Filter";
 import Products from "./components/Products";
