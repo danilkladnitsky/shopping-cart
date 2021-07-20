@@ -5,7 +5,7 @@
     "title": "Dress 1",
     "image": "/images/dress1.jpg",
     "description": "about dress 1",
-    "price": 19,
+    "price": 69,
     "availableSizes": ["XL", "XXL"]
   },
   {
@@ -13,40 +13,40 @@
     "title": "Dress 1",
     "image": "/images/dress1.jpg",
     "description": "about dress 1",
-    "price": 19,
-    "availableSizes": ["XL", "XXL"]
+    "price": 39,
+    "availableSizes": ["SM", "S"]
   },
   {
     "_id": "dress3",
     "title": "Dress 1",
     "image": "/images/dress1.jpg",
     "description": "about dress 1",
-    "price": 19,
-    "availableSizes": ["XL", "XXL"]
+    "price": 19.9,
+    "availableSizes": ["M", "L"]
   },
   {
     "_id": "dress4",
     "title": "Dress 1",
     "image": "/images/dress1.jpg",
     "description": "about dress 1",
-    "price": 19,
-    "availableSizes": ["XL", "XXL"]
+    "price": 29.9,
+    "availableSizes": ["S", "XXL"]
   },
   {
     "_id": "dress5",
     "title": "Dress 1",
     "image": "/images/dress1.jpg",
     "description": "about dress 1",
-    "price": 19,
-    "availableSizes": ["XL", "XXL"]
+    "price": 49.9,
+    "availableSizes": ["M", "L"]
   },
   {
     "_id": "dress6",
     "title": "Dress 1",
     "image": "/images/dress1.jpg",
     "description": "about dress 1",
-    "price": 19,
-    "availableSizes": ["XL", "XXL"]
+    "price": 219,
+    "availableSizes": ["XS", "S"]
   }
 ]
 }
