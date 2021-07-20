@@ -10,7 +10,7 @@ export default class Products extends Component {
               <div className="product">
                 <a href={"#" + product._id}>
                   <img src={product.image} alt={product.title}></img>
-                  <p>{product.title}</p>
+                  <p>{product.description}</p>
                 </a>
                 <div className="product-price">
                   <div>{formatCurrency(product.price)}</div>
